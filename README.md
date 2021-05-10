@@ -8,7 +8,7 @@
 
 
 
-Programa **Bootcamp Data Science** - ed. Part Time Madrid 04/2021
+Programa **Bootcamp Data Science** - ed. Part Time Madrid Mayo/2021
 
 El programa de Data Science más completo. Aprenderás a capturar,  procesar, almacenar, analizar y productivizar todo tipo de datos.  Programarás con Python, aprenderás a aplicar técnicas de Machine  Learning, Deep Learning y Visualización de Datos. Te convertirás en un  Data Scientist capaz de obtener tesoros a partir de los datos. El  trabajo más sexy del siglo XXI
 
